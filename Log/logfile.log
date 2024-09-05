@@ -1,0 +1,37 @@
+2023-01-24 15:28:46,256 : INFO : test_flights_page : MakeMyTrip - #1 Travel Website 50% OFF on Hotels, Flights & Holiday
+2023-01-24 15:28:46,257 : INFO : test_flights_page : starting iframe
+2023-01-24 15:28:46,257 : INFO : test_flights_page : starting iframe
+2023-01-24 15:28:56,284 : INFO : test_flights_page : Add pop up execution is cmpleted
+2023-01-24 15:28:56,284 : INFO : test_flights_page : Add pop up execution is cmpleted
+2023-01-24 15:28:56,284 : INFO : test_flights_page : Add pop up execution is cmpleted
+2023-01-24 15:29:06,768 : INFO : wait_clickable : Message: disconnected: unable to send message to renderer
+  (failed to check if window was closed: disconnected: unable to connect to renderer)
+  (Session info: chrome=109.0.5414.74)
+Stacktrace:
+#0 0x562f28606303 <unknown>
+#1 0x562f283dad37 <unknown>
+#2 0x562f283c3a90 <unknown>
+#3 0x562f283c4408 <unknown>
+#4 0x562f283e67ae <unknown>
+#5 0x562f283dddf1 <unknown>
+#6 0x562f283dd931 <unknown>
+#7 0x562f283de351 <unknown>
+#8 0x562f283de6dc <unknown>
+#9 0x562f28417188 <unknown>
+#10 0x562f284176c1 <unknown>
+#11 0x562f28451b34 <unknown>
+#12 0x562f284379ad <unknown>
+#13 0x562f2844f88c <unknown>
+#14 0x562f28437753 <unknown>
+#15 0x562f2840aa14 <unknown>
+#16 0x562f2840bb7e <unknown>
+#17 0x562f2865532e <unknown>
+#18 0x562f28658c0e <unknown>
+#19 0x562f2863b610 <unknown>
+#20 0x562f28659c23 <unknown>
+#21 0x562f2862d545 <unknown>
+#22 0x562f2867a6a8 <unknown>
+#23 0x562f2867a836 <unknown>
+#24 0x562f28695d13 <unknown>
+#25 0x7f87dd966609 start_thread
+
